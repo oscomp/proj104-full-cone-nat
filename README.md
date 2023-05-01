@@ -29,7 +29,7 @@ Linux Kernel只实现了Symmetric NAT，有人曾为iptables实现了full-cone N
 
 - 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
 
-# 项目导师
+### 项目导师
 
 付林
 
