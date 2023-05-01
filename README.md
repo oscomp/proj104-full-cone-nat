@@ -37,7 +37,7 @@ Linux Kernel只实现了Symmetric NAT，有人曾为iptables实现了full-cone N
 
 - email: fulin10@huawei.com river@vvl.me
 
-# 难度
+### 难度
 
 中等
 
